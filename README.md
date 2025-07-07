@@ -1,6 +1,6 @@
 # AWS Free Tier Monitor
 
-监控多个 AWS 账户的 EC2 出站流量（每月 15GB 免费），并通过 Telegram 推送提醒。
+监控多个 AWS 账户的 EC2 出站流量，并通过 Telegram 推送提醒。
 
 ## 使用方法
 
